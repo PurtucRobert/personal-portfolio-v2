@@ -34,7 +34,7 @@
             data-aos-duration="500"
             data-aos-delay="200"
             src="/images/me.webp"
-            alt="A guy (me) posing with a an Amazon t-shirt with the Columbia Icefield in the background."
+            alt="A guy (me) posing nearby Corvin Castle in Romania"
           />
         </div>
       </div>
@@ -54,9 +54,8 @@
           class="text-gray-600 dark:text-gray-300 lg:text-lg space-y-5"
         >
           <p class="first-letter:text-4xl first-letter:font-bold">
-            What's up? I’m Bob, a software developer with expertise in web
-            development. Currently, I am a Computer Science specialist at
-            University of Toronto.
+            What's up? I’m Robert, a software engineer based in Romania and
+            currently I am working as a backend engineer for Klarna Bank.
           </p>
           <p class="indent-4">
             The passion to create and innovate has always been in me. I strive
@@ -64,21 +63,11 @@
             attention and deliberation.
           </p>
           <p class="indent-4">
-            My expertise include JavaScript, CSS, and the MERN stack. Recently I
-            have been intrigue with blockchain tech and Web3. Aside from coding,
-            I enjoy playing table tennis, video games, and the drums.
+            With a solid 5-year track record in the software industry,my
+            expertise thrives in web applications and microservices applied in cybersecurity,
+            e-commerce, fintech and legaltech, areas that truly ignite my passion of crafting software.
           </p>
         </div>
-        <!-- <Link
-				data-aos="fade-left"
-				to="facts"
-				class="px-4 py-2 inline-block leading-4 border-blue-400 border bg-blue-200 hover:bg-blue-300 rounded-sm mr-3 text-gray-700 font-mono"
-				noroute
-			>
-				<p class="text-gray-700 font-bold font-mono">
-					Some fun facts about me <i class="fas fa-long-arrow-alt-right" />
-				</p>
-			</Link> -->
       </div>
     </div>
   </section>

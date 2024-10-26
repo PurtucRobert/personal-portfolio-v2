@@ -1,91 +1,64 @@
 [
   {
-    "name": "Amazon Web Services",
-    "logo": "/images/aws.png",
+    "name": "Yopeso",
+    "logo": "/images/yopeso-logo.png",
     "background": "moving-gradient-1",
-    "position": "SDE Intern - Aurora Control Plane",
-    "start": "May",
-    "end": "Aug. 2023",
-    "highlight": "text-orange-400",
-    "points": [
-      "Designed and engineered an easy-to-use, elaborate dashboard for on-call engineers to monitor the patching statuses of various database clusters.",
-      "Drove the project from conception to completion. Held design document reviews, midpoint demos, final presentation, and various meetings with stakeholder and other engineers to align on details.",
-      "Contributed to 3 major codebases for the project, spanning multiple teams. Wrote heavily tested code (>90% code coverage) following conventions and practices of respective teams. Participated in extensive code reviews, and discussed with reviewers on code changes and comments.",
-      "Delivered first version of the project successfully given the tight deadline. Wrote detailed documentation and recorded videos explaining the codebases for a thorough knowledge transfer."
-    ]
-  },
-  {
-    "name": "Zynga Inc.",
-    "logo": "/images/zynga.png",
-    "background": "bg-white",
-    "position": "Software Engineering Intern - Analytics",
-    "start": "May 2022",
-    "end": "April 2023",
-    "highlight": "text-red-400",
-    "points": [
-      "Developed a centralized portal for analytics application, fixed various bugs by refactoring legacy React components, improved the website’s visuals and user experience by refactoring the CSS and introducing accessible HTML.",
-      "Led production releases of the centralized portal, ensuring approval from quality assurance, running and fixing automated content testing, drafting Change Management requests, and executing scheduled deployments using Jenkins.",
-      "Participated actively in code reviews, suggested codebase improvements and conventions like BEM for reduced CSS specificity issues and better structure.",
-      "Conceived and implemented an automated tagging feature for PM emails using Python, deployed as a CronJob. Wrote technical specs, held internal review meetings, then drove the entire feature to completion."
-    ]
-  },
-  {
-    "name": "X-CD Technologies Inc.",
-    "logo": "/images/x-cd logo.png",
-    "background": "moving-gradient-2",
-    "blend": "multiply",
-    "position": "Software Developer",
-    "start": "April 2021",
-    "end": "Feb. 2022",
-    "highlight": "text-indigo-400",
-    "points": [
-      "Developed client's e-commerce stores, product consumption platforms, member & corporate directories, and the corresponding admin functionalities.",
-      "Participated in code reviews, and provided feedback to improve code quality.",
-      "Worked on the frontend using React, Redux, Redux-saga, and the backend using Node.js, Express, and MySQL."
-    ]
-  },
-
-  {
-    "name": "The Hacker Collective",
-    "logo": "/images/thc logo.png",
-    "background": "bg-gray-700",
-    "position": "Mentor / Jumpstarter",
-    "start": "Sept. 2020",
-    "end": "April 2021",
-    "highlight": "text-red-400",
-    "points": [
-      "Conducted zoom lectures and mentoring sessions to groups of learners about programming and web development.",
-      "Did live programming demonstrations to students, and guided them so they understood the concepts.",
-      "Topics covered include JavaScript fundamentals, Object-oriented programming, CSS basics, flexbox and grid, Git and Github crash course, using REST APIs, DOM manipulation, and a few mini projects."
-    ]
-  },
-  {
-    "name": "Pathforge Pte. Ltd.",
-    "logo": "/images/pathforge logo.jpg",
-    "background": "bg-white",
-    "position": "Fullstack Developer",
-    "start": "Sept. 2020",
-    "end": "April 2021",
-    "highlight": "text-green-400",
-    "points": [
-      "Worked with developers and designers in a startup environment.",
-      "Used technologies like Vue, Buefy, Graphql, Hasura, and Postgres to build a social e-learning site.",
-      "Developed a CMS for course materials, integrated user leaderboards, and built the entire social feed and endorsement system."
-    ]
-  },
-  {
-    "name": "N2N Connect Bhd.",
-    "logo": "/images/n2n connect logo.png",
-    "background": "moving-gradient-1",
-    "position": "Frontend Developer / Trainee",
-    "start": "June",
-    "end": "Aug. 2019",
+    "position": "Senior Software Engineer",
+    "start": "Nov. 2023",
+    "end": "Present",
     "highlight": "text-blue-400",
     "points": [
-      "Revamped the frontend of the company's internal timesheet management system using Angular.js and Bootstrap.",
-      "Fixed bugs and introduced new quality of life features.",
-      "Presented my work during head of department meetings.",
-      "Wrote extensive documentation for proper project handover."
+      "Working as a Senior Software Engineer on contract for Klarna Bank.",
+      "Involved in various development tasks for backend and frontend components."
+    ]
+  },
+  {
+    "name": "Pentalog",
+    "logo": "/images/pentalog-logo.png",
+    "background": "moving-gradient-2",
+    "position": "Software Engineer",
+    "start": "May 2022",
+    "end": "Jan 2023",
+    "highlight": "text-indigo-400",
+    "points": [
+      "On Skillvalue project:",
+      "Developed web backend components using Django for skillvalue.com, improving security to ASVS L1 standards.",
+      "Refactored and enhanced the login system for the platform and added multiple frontend features using Angular.",
+      "Worked on the LegalVision project to implement backend domain models, authentication services, and integrate HubSpot CRM.",
+      "Managed CI/CD processes and worked on marketplace connectors for Lengow project."
+    ]
+  },
+  {
+    "name": "3Pillar Global",
+    "logo": "/images/3pillar-logo.png",
+    "background": "bg-white",
+    "position": "Intermediate Software Engineer",
+    "start": "Feb 2020",
+    "end": "May 2022",
+    "highlight": "text-orange-400",
+    "points": [
+      "Developed unit testing scenarios using pyATS, and implemented Groovy-based Jenkins pipelines for automation.",
+      "Configured CISCO devices manually and built testbeds for automation testing.",
+      "Mastered the Perforce Helix versioning system and managed baselines for CISCO devices.",
+      "Facilitated internal product trainings as part of the Community of Practice.",
+      "Created complex tests from scratch and integrated them into existing test suites, preparing the execution plan.",
+      "Discussed requirements with stakeholders and implemented new features into existing frameworks.",
+      "Mentored students for 14 weeks, covering topics like Python, scripting, and Linux.",
+      "Implemented an API and added support for a new cloud platform into the automation framework.",
+      "Held presentations for multiple teams on new framework features."
+    ]
+  },
+  {
+    "name": "Software Dev Academy",
+    "logo": "/images/software-dev-academy-logo.png",
+    "background": "bg-slate-400",
+    "position": "Mentor",
+    "start": "Sept. 2023",
+    "end": "Present",
+    "highlight": "text-indigo-400",
+    "points": [
+      "My role is to provide guidance, support, and expertise to individuals seeking to develop their skills and advance their careers in IT",
+      "I offer valuable insights, share industry best practices, and help you navigate challenges and make informed decisions to achieve your goals in the IT industry."
     ]
   }
 ]

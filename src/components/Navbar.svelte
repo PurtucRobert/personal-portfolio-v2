@@ -52,7 +52,7 @@
       B
     </p>
   </a>
-  <a href="/#home" data-aos="flip-up" class="nav-text-home">Ng Bob Shoaun</a>
+  <a href="/#home" data-aos="flip-up" class="nav-text-home">Robert Purtuc</a>
 
   <div use:links class="hidden lg:flex gap-9 items-center ml-auto">
     <Router>
@@ -72,31 +72,7 @@
         class="nav-text"
         noroute>Experience</a
       >
-      <a
-        href="/#web-development"
-        data-aos="zoom-in"
-        data-aos-delay="300"
-        data-aos-duration="700"
-        class="nav-text"
-        noroute>Web dev</a
-      >
 
-      <a
-        href="/#game-development"
-        data-aos="zoom-in"
-        data-aos-delay="400"
-        data-aos-duration="700"
-        class="nav-text"
-        noroute>Game dev</a
-      >
-      <a
-        href="/#graphic-design"
-        data-aos="zoom-in"
-        data-aos-delay="500"
-        data-aos-duration="700"
-        class="nav-text"
-        noroute>Design</a
-      >
       <a
         href="/#contact"
         data-aos="zoom-in"
@@ -176,35 +152,6 @@
         class="block bg-gray-50 dark:bg-gray-800 p-5"
         href="/#experience">Experience</a
       >
-      <a
-        on:click={() => (open = false)}
-        data-aos="slide-left"
-        data-aos-delay="200"
-        class="block bg-gray-50 dark:bg-gray-800 p-5"
-        href="/#web-development"
-      >
-        Web Development
-      </a>
-
-      <a
-        on:click={() => (open = false)}
-        data-aos="slide-right"
-        data-aos-delay="200"
-        class="block bg-gray-50 dark:bg-gray-800 p-5"
-        href="/#game-development"
-      >
-        Game Development
-      </a>
-
-      <a
-        on:click={() => (open = false)}
-        data-aos="slide-left"
-        data-aos-delay="200"
-        class="block bg-gray-50 dark:bg-gray-800 p-5"
-        href="/#graphic-design"
-      >
-        Graphic Design
-      </a>
       <a
         on:click={() => (open = false)}
         data-aos="slide-right"
