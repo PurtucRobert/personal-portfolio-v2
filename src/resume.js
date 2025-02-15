@@ -7,7 +7,7 @@ const resume = {
     label: "bobng.me",
   },
   email: {
-    url: "ngbobshoaun2000@gmail.com",
+    url: "robert.purtuc@gmail.com",
     label: "ngbobshoaun2000@gmail",
   },
   linkedIn: {

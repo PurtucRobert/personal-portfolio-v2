@@ -43,7 +43,7 @@
     <a
       data-aos="fade-up"
       class="nav-text text-gray-700 dark:text-gray-50"
-      href="https://github.com/BobShoaun/Portfolio-V2"
+      href="https://github.com/PurtucRobert"
       target="_blank"
     >
       Robert Purtuc &copy; <time>2024</time>

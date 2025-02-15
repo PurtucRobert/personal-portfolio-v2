@@ -68,18 +68,12 @@
           </h2>
 
           <h5 data-aos="fade" class="text-gray-500 dark:text-gray-300 mb-7">
-            Shoot me a message and I will get back to you as soon as I can. My
-            emails are
+            Shoot me a message and I will get back to you as soon as I can.
+            My email is
             <button
               class="text-gray-700 dark:text-gray-100 underline"
-              on:click={() => copyToClipboard("ngbobshoaun2000@gmail.com")}
-              >ngbobshoaun2000@gmail.com</button
-            >
-            and
-            <button
-              class="text-gray-700 dark:text-gray-100 underline"
-              on:click={() => copyToClipboard("bobshoaun.ng@mail.utoronto.ca")}
-              >bobshoaun.ng@mail.utoronto.ca</button
+              on:click={() => copyToClipboard("robert.purtuc@gmail.com")}
+              >robert.purtuc@gmail.com</button
             >
           </h5>
         </div>
